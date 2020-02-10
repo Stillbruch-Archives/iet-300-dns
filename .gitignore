@@ -1,4 +1,4 @@
-*.keys
+*.key*
 *.rfc1918
 db.0
 db.127
