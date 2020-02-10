@@ -1,0 +1,13 @@
+$TTL	3600
+@	IN	SOA	ns.smartlearn.dmz.	root.smartlearn.dmz. (
+			2020020301
+			1H
+			2H
+			1D
+			1H )
+@	IN	NS	ns.smartlearn.dmz.
+1	IN	PTR	vmlf1.smartlearn.lan.
+10	IN	PTR	vmwp1.smartlearn.lan.
+30	IN	PTR	vmlp1.smartlearn.lan.
+60	IN	PTR	vmls4.smartlearn.lan.
+61	IN	PTR	vmls5.smartlearn.lan.

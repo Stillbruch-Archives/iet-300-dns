@@ -1,0 +1,9 @@
+*.keys
+*.rfc1918
+db.0
+db.127
+db.255
+db.empty
+db.local
+db.root
+named.conf.options_bak
