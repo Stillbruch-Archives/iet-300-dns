@@ -1,5 +1,5 @@
 $TTL	3600
-@	IN	SOA	vmls3.smartlearn.dmz.	root.smartlearn.dmz. (
+@	IN	SOA	ns.smartlearn.dmz.	root.smartlearn.dmz. (
 			2020020301
 			1H
 			2H

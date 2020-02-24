@@ -6,8 +6,8 @@ $TTL	3600
 			1D
 			1H )
 @	IN	NS	ns.smartlearn.dmz.
-vmlf1	IN	A	192.168.220.1
 ns	IN	A	192.168.220.12
-vmls3	IN	CNAME	ns
-ftp	IN	CNAME	ns
-www	IN	CNAME	ns
+vmlf1	IN	A	192.168.220.1
+vmls3	IN	A	192.168.220.12
+ftp	IN	CNAME	vmls3
+www	IN	CNAME	vmls3
